@@ -1,0 +1,28 @@
+img {
+  margin-bottom: 10px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+
+.container {
+  width: 100%;
+}
+
+.carousel-inner img {
+  width: 800px;
+  height: 350px;
+}
+
+.content-container {
+  margin: 25px auto;
+  width: 90%;
+}
+
+.gallery-container {
+  margin: auto;
+  width: 98%;
+}
